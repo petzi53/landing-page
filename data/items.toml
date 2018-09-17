@@ -23,6 +23,12 @@ thumb = "images/thumbs/ORCID.png"
 alt = "My ORCID ID"
 description = "Open Researcher and Contributor ID (ORCID) is a non-for-profit organization which provides you with a unique and persistant digital research identifier. <br /><br />In ORCID you can display not only your education, working history, publications, but also funding, peer review activies.<br /><br />5,2 Mio researcher (Sept. 2018), many academic services, publishers and funding agencies are aready connected with ORCID.<br /><a href='https://orcid.org/0000-0003-4526-8791'>0000-0003-4526-8791</a>"
 [[items]]
+title = "Google Scholar"
+image = "images/full/google-scholar.png"
+thumb = "images/thumbs/google-scholar.png"
+alt = "My Google Scholar Page"
+description = "My Google Scholar Page.<br /><br />As you can see: My yearly citation index is going down in the last few years. The reasons are twofold:<br /><br />I have stopped to publish similar research results in different places and I am in a transition period in focussing to other research issues. (Away from eLearning to more general issues of knowledge production.)<br /><a href='https://scholar.google.at/citations?user=mKCNn9kAAAAJ&hl'>My Google Scholar Page</a>"
+[[items]]
 title = "Studieren und Forschen mit dem Internet"
 image = "images/full/stufonet.png"
 thumb = "images/thumbs/stufonet.png"
