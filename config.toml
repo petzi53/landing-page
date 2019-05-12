@@ -16,7 +16,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
     # Meta
     title = "Peter Baumgartner (Landing Page)"
-    subtitle = "Learn more about my work and visit my different web presences."
+    subtitle = "To learn more about my work click at the pictures of the different web presences."
     author = "Peter Baumgartner"
     description = "Landing Page of Peter Baumgartner with link to his different web presences."
     keywords = "Peter Baumgartner, Baumgartner Peter, Gedankensplitter, Educational Patterns, eEducation, e-learning, educational technology, open science, science 2.0, eScience"

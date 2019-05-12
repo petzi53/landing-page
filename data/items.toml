@@ -3,76 +3,162 @@ title = "Peter Baumgartner"
 image = "images/full/petzi.png"
 thumb = "images/thumbs/petzi.png"
 alt = "Peter Baumgartner"
-description = "I am professor of Education Technology and was for 13 years head of the Department of Interactive Media and Educational Technologies at Danube University Krems. I am currently on a sabbatical (2018/2019).<br /><br />My research interests are: Technology Enhanced Learning (TEL), eLearning, eEducation, design of educational scenarios, taxonomies of educational patterns. Recently my research focus has shifted to the development of science in the internet era: eScience, science 2.0, open science, open scholarship.<br /><br /> This is my landing page to provide you with links to my different web presences. "
+description = """
+I am a professor of Education Technology and was for 13 years head of the Department of Interactive Media
+and Educational Technologies at Danube University Krems. I am currently on a sabbatical (2018/2019).
+<br /><br />
+My research interests are Technology Enhanced Learning (TEL), eLearning, eEducation,
+design of educational scenarios, taxonomies of educational patterns.
+Recently my research focus has shifted to the development of science in the internet era:
+eScience, science 2.0, open science, open scholarship.
+<br /><br />
+This web page is my landing page to provide you with links to my different web presences</"""
 [[items]]
 title = "Gedankensplitter"
 image = "images/full/gedankensplitter.png"
 thumb = "images/thumbs/gedankensplitter.png"
 alt = "Website Gedankensplitter"
-description = "German weblog on eLearning and technology supported educational scenarios. <a href='https://peter.baumgartner.name/'>Gedankensplitter</a><br /><br />Besides blog posts you will also find other material under the menues 'Collections' and 'Goodies':<br />-> A tutorial on Actors Network Theory (German)<br />-> An online course on Actors Network Theory with badges and certificates; registration required (German)<br />-> Link lists related to R and to many other subjects (English)"
+description = """
+German weblog on eLearning and technology supported educational scenarios. <a href='https://peter.baumgartner.name/'>Gedankensplitter</a>
+<br /><br />Besides blog posts you will also find other material under the menues 'Collections' and 'Goodies':
+<br />-> A tutorial on Actors Network Theory (German)
+<br />-> An online course on Actors Network Theory with badges and certificates; registration required (German)
+<br />-> Link lists related to R and to many other subjects (English)"""
 [[items]]
 title = "Educational Patterns"
 image = "images/full/educationalPatterns.png"
 thumb = "images/thumbs/educationalPatterns.png"
 alt = "Website Educational Patterns"
-description = "My new English weblog, launched in Summer 2018. It focus is on eScience / open Science and tools for reproducible research.<br /><br /><a href='https://portfolio.peter-baumgartner.net/'>Educational Patterns</a>"
+description = """
+My English weblog. Launched in Summer 2018, but it is still experimental.
+I want to focus on R related issues and tools for reproducible research to foster eScience / open Science.
+<br /><br />I have already collected a lot of material, but my learning curve is still steep.
+Therefore I lack an overview of what to publish. Additionally, this English weblog
+addresses a new community for me, where I am still not confident about their discussion culture.
+<br /><br /><a href='https://portfolio.peter-baumgartner.net/'>Educational Patterns</a>"""
 [[items]]
 title = "ORCID ID"
 image = "images/full/ORCID.png"
 thumb = "images/thumbs/ORCID.png"
 alt = "My ORCID ID"
-description = "Open Researcher and Contributor ID (ORCID) is a non-for-profit organization which provides you with a unique and persistant digital research identifier. <br /><br />In ORCID you can display not only your education, working history, publications, but also funding, peer review activies.<br /><br />5,2 Mio researcher (Sept. 2018), many academic services, publishers and funding agencies are aready connected with ORCID.<br /><a href='https://orcid.org/0000-0003-4526-8791'>0000-0003-4526-8791</a>"
+description = """
+Open Researcher and Contributor ID (ORCID) is a not-for-profit organization
+which provides you with a unique and persistent digital research identifier.
+<br /><br />
+In ORCID you can display not only your education, working history, publications,
+but also funding, peer review activities.
+<br /><br />
+6.4 Mio researcher (May 2019), many academic services, publishers and funding agencies
+have already a unique persistent digital identifier with ORCID.
+<br /><br /><a href='https://orcid.org/0000-0003-4526-8791'>0000-0003-4526-8791</a>"""
 [[items]]
 title = "Google Scholar"
 image = "images/full/google-scholar.png"
 thumb = "images/thumbs/google-scholar.png"
 alt = "My Google Scholar Page"
-description = "My Google Scholar Page.<br /><br />As you can see: My yearly citation index is going down in the last few years. The reasons are twofold:<br /><br />I have stopped to publish similar research results in different places and I am in a transition period in focussing to other research issues. (Away from eLearning to more general issues of knowledge production.)<br /><a href='https://scholar.google.at/citations?user=mKCNn9kAAAAJ&hl'>My Google Scholar Page</a>"
+description = """
+Google Scholar is a freely accessible web search engine
+that indexes the full text or metadata of scholarly literature.
+<br /><a href='https://scholar.google.at/citations?user=mKCNn9kAAAAJ&hl'>My Google Scholar Page</a>
+<br /><br />
+If you follow the link in the bottom to my publications search results by Google, you will see
+that my yearly citation index is going down in the last few years.
+The reason is that I am in a transition period in focussing to other research issues.
+I am moving away from the eLearning/Blended Learning to more general aspects of open knowledge production:
+Open Science with all their flavors (Open Data, Open Research Workflow, Open Research Methodology, Open Evaluation, etc.).
+This new focus also includes strategies to foster reproducible research using the R language for estimation statistics.
+"""
 [[items]]
 title = "Studieren und Forschen mit dem Internet"
 image = "images/full/stufonet.png"
 thumb = "images/thumbs/stufonet.png"
 alt = "Webpage for the book: Studieren und Forschen mit dem Internet"
-description = "Co-authored with Sabine Payr and published 2001. The book is currently out of print. I have republished those chapters which are still relevant today under a Creative Common License. This cross media publication is available as webpage, ebook (ePub and mobi) and as PDF.<br /><a href='https://bookdown.org/pbaumgartner/wiss-arbeiten/'>Studieren und Forschen mit dem Internet</a>"
+description = """
+Co-authored with Sabine Payr and published 2001.
+The book is currently out of print.
+I have republished those chapters which are still relevant today under a Creative Common License.
+This cross-media publication is available as a webpage, ebook (ePub and mobi) and as PDF.
+<br /><a href='https://bookdown.org/pbaumgartner/wiss-arbeiten/'>Studieren und Forschen mit dem Internet</a>"""
 [[items]]
 title = "Prezi Presetations"
 image = "images/full/prezi.png"
 thumb = "images/thumbs/prezi.png"
 alt = "Prezi Homepage of Peter Baumgartner"
-description = "About 40 presentations in Prezi, about half of them im English, some with German audit track.<br /><a href='https://prezi.com/user/baumgartner/'>My public prezis</a>"
+description = """
+More than 40 presentations in Prezi, about half of them im English, some with German audit track.
+<br /><a href='https://prezi.com/user/baumgartner/'>My public prezis</a>"""
 [[items]]
 title = "Zotero"
 image = "images/full/zotero.png"
 thumb = "images/thumbs/zotero.png"
 alt = "Zotero Homepage of Peter Baumgartner"
-description = "Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research. Visit and follow me on my<br /><a href='https://www.zotero.org/petzi'>My Zotero Homepage</a>.<br /><br />Collaborate with me to build up an<br /><a href='https://www.zotero.org/groups/2220909/open_science_collection'>Open Science Collection</a>"
+description = """
+Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
+Visit and follow me on my<br /><a href='https://www.zotero.org/petzi'>My Zotero Homepage</a>.
+<br /><br />Collaborate with me to build up an
+<br /><a href='https://www.zotero.org/groups/2220909/open_science_collection'>Open Science Collection</a>"""
 [[items]]
 title = "Goodreads"
 image = "images/full/goodreads.png"
 thumb = "images/thumbs/goodreads.png"
 alt = "Goodreads Profilpage of Peter Baumgartner"
-description = "Share interesting literature with me. Not only about professional books but also about Science Fiction, Fantasy and Triller.<br/><a href='https://www.goodreads.com/user/show/13270093-peter-baumgartner'>My Goodreads Profilpage</a>"
+description = """
+Share interesting literature with me.
+Not only about professional books but also about Science Fiction, Fantasy, and Triller.
+<br/><a href='https://www.goodreads.com/user/show/13270093-peter-baumgartner'>My Goodreads Profilpage</a>
+"""
 [[items]]
 title = "GitHub"
 image = "images/full/github.png"
 thumb = "images/thumbs/github.png"
 alt = "<GitHub Profilpage of Peter Baumgartner"
-description = "Recently I started to work with GutHub, a development platform for hosting, sharing, reviewing code, for managing projects, and for building (open) software.<br /><a href='https://github.com/petzi53'>My Repositories on GitHub</a>"
+description = """
+December 2016 I started to work with GitHub, a development platform for
+hosting, sharing, and reviewing code, but also for managing projects, and for building (open) software.
+<br /><a href='https://github.com/petzi53'>My Repositories on GitHub</a>"""
 [[items]]
-title = "StackOverflow"
+title = "StackOverflow (SO)"
 image = "images/full/stackoverflow.png"
 thumb = "images/thumbs/stackoverflow.png"
 alt = "StackOverflow Profilpage of Peter Baumgartner"
-description = "I am still a newbie related to software adapation and development. But exactly my learning needs on these issues reequired a certain engagement on StackOverflow, the world’s largest developer community.<br /><a href='https://stackoverflow.com/users/7322615/petzi'>My StackOverflow Profil Page</a>"
+description = """
+I am still a newbie related to software adaptation and development.
+But precisely for my programming learning needs,
+I require engagement continually on StackOverflow (SO), the world’s largest developer community.
+<br/><br>I started with SO in December 2016.
+In the meanwhile, I didn’t only ask questions but could also answer
+some on issues related to R.
+<br /><a href='https://stackoverflow.com/users/7322615/petzi'>My SO Profil Page</a>"""
 [[items]]
 title = "Diigo"
 image = "images/full/diigo.png"
 thumb = "images/thumbs/diigo.png"
 alt = "Diigo Library of Peter Baumgartner"
-description = "Diigo is a social bookmarking tool which is especially suited for research. With Diigo you can share your bookmarks, your highlighted text on web pages and on PDFs, make annotations and collaborate in groups. <br /><br />See what I have bookmarked:<br /><a href='https://www.diigo.com/user/pbaumgartner'>My Diigo Library</a>"
+description = """
+Diigo is a cloud-based social bookmarking tool which is especially suited for research.
+With Diigo, you can share not only your bookmarks but also your highlighted text on web pages and PDFs.
+You can annotate web pages and collaborate in groups.
+<br /><br />I especially like the outliner tool where you can collect,
+sort and group data (highlighted text, annotation) from your bookmarks to prepare a research paper.
+The feature to import kindle notes is also precious for me.
+<br /><br />See what I have bookmarked so far:
+<br /><a href='https://www.diigo.com/user/pbaumgartner'>My Diigo Library</a>"""
 [[items]]
 title = "Rpubs"
 image = "images/full/rpubs.png"
 thumb = "images/thumbs/rpubs.png"
 alt = "R Markdown documents of Peter Baumgartner published at the free RStudio server"
-description = "RPubs is a free service from RStudio where you can store R Markdown documents. <br /><br />I have published several documents concerned with learning R --- a free software environment for statistical computing and graphics.<br /><a href='https://rpubs.com/pbaumgartner/'>My published R Markdown documents</a>"
+description = """
+RPubs is a free service from RStudio where you can store R Markdown documents.
+<br /><a href='https://rpubs.com/pbaumgartner/'>My published R Markdown documents</a>
+<br /><br />
+I have published several documents concerned with learning R ---
+a free software environment for statistical computing and graphics.
+<br /><br />
+Recently (April 2019) I started to write the solutions for the End-of-Chapter Exercises for
+<i>Introduction To The New Statistics</i> by Geoff Cumming & Robert Calin-Jageman (Routledge 2017).
+My published solutions also include some own extra exercises like
+getting data from a table on a web page with web scraping and copying data to Excel sheet,
+data tidying and displaying different kinds distributions with ggplot2).
+
+"""
