@@ -6,7 +6,6 @@ theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-106194253-5"
 
-relativeURls = false
 
 
 contentdir = "content"
