@@ -13,6 +13,7 @@ Recently my research focus has shifted to the development of science in the inte
 eScience, science 2.0, open science, open scholarship.
 <br /><br />
 This web page is my landing page to provide you with links to my different web presences"""
+
 [[items]]
 title = "Gedankensplitter"
 image = "images/full/gedankensplitter.png"
@@ -24,6 +25,7 @@ German weblog on eLearning and technology supported educational scenarios. <a hr
 <br />-> A tutorial on Actors Network Theory (German)
 <br />-> An online course on Actors Network Theory with badges and certificates; registration required (German)
 <br />-> Link lists related to R and to many other subjects (English)"""
+
 [[items]]
 title = "My English Weblog"
 image = "images/full/notes-weblog.png"
@@ -33,6 +35,7 @@ description = """
 I launched my English weblog already in Summer 2017, but it is still experimental. With this website, I want to focus on R related issues and tools for reproducible research to foster education in Open Science & Data Science.
 <br /><br />Not only the English language barrier has to overcome, but I also have problems to know what particular target community I want to address. Furthermore, there are still some unresolved technical issues with the sophisticated technology behind the static web generator. And last not least, my learning curve on the relatively new subjects continues to be steep and challenging.
 <br /><br /><a href='https://notes.peter-baumgartner.net/'>Open Science & Data Science Education</a>"""
+
 [[items]]
 title = "ORCID ID"
 image = "images/full/ORCID.png"
@@ -48,6 +51,7 @@ but also funding, peer review activities.
 6.4 Mio researcher (May 2019), many academic services, publishers and funding agencies
 have already a unique persistent digital identifier with ORCID.
 <br /><br /><a href='https://orcid.org/0000-0003-4526-8791'>0000-0003-4526-8791</a>"""
+
 [[items]]
 title = "Google Scholar"
 image = "images/full/google-scholar.png"
@@ -65,6 +69,7 @@ I am moving away from the eLearning/Blended Learning to more general aspects of 
 Open Science with all their flavors (Open Data, Open Research Workflow, Open Research Methodology, Open Evaluation, etc.).
 This new focus also includes strategies to foster reproducible research using the R language for estimation statistics.
 """
+
 [[items]]
 title = "Studieren und Forschen mit dem Internet"
 image = "images/full/stufonet.png"
@@ -76,6 +81,7 @@ The book is currently out of print.
 I have republished those chapters which are still relevant today under a Creative Common License.
 This cross-media publication is available as a webpage, ebook (ePub and mobi) and as PDF.
 <br /><a href='https://bookdown.org/pbaumgartner/wiss-arbeiten/'>Studieren und Forschen mit dem Internet</a>"""
+
 [[items]]
 title = "Prezi Presetations"
 image = "images/full/prezi.png"
@@ -84,6 +90,7 @@ alt = "Prezi Homepage of Peter Baumgartner"
 description = """
 More than 40 presentations in Prezi, about half of them im English, some with German audit track.
 <br /><a href='https://prezi.com/user/baumgartner/'>My public prezis</a>"""
+
 [[items]]
 title = "Zotero"
 image = "images/full/zotero.png"
@@ -94,6 +101,7 @@ Zotero is a free, easy-to-use tool to help you collect, organize, cite, and shar
 Visit and follow me on my<br /><a href='https://www.zotero.org/petzi'>My Zotero Homepage</a>.
 <br /><br />Collaborate with me to build up an
 <br /><a href='https://www.zotero.org/groups/2220909/open_science_collection'>Open Science Collection</a>"""
+
 [[items]]
 title = "Goodreads"
 image = "images/full/goodreads.png"
@@ -104,6 +112,7 @@ Share interesting literature with me.
 Not only about professional books but also about Science Fiction, Fantasy, and Triller.
 <br/><a href='https://www.goodreads.com/user/show/13270093-peter-baumgartner'>My Goodreads Profilpage</a>
 """
+
 [[items]]
 title = "GitHub"
 image = "images/full/github.png"
@@ -113,6 +122,7 @@ description = """
 December 2016 I started to work with GitHub, a development platform for
 hosting, sharing, and reviewing code, but also for managing projects, and for building (open) software.
 <br /><a href='https://github.com/petzi53'>My Repositories on GitHub</a>"""
+
 [[items]]
 title = "StackOverflow (SO)"
 image = "images/full/stackoverflow.png"
@@ -126,6 +136,7 @@ I require engagement continually on StackOverflow (SO), the world’s largest de
 In the meanwhile, I didn’t only ask questions but could also answer
 some on issues related to R.
 <br /><a href='https://stackoverflow.com/users/7322615/petzi'>My SO Profil Page</a>"""
+
 [[items]]
 title = "Diigo"
 image = "images/full/diigo.png"
@@ -140,6 +151,7 @@ sort and group data (highlighted text, annotation) from your bookmarks to prepar
 The feature to import kindle notes is also precious for me.
 <br /><br />See what I have bookmarked so far:
 <br /><a href='https://www.diigo.com/user/pbaumgartner'>My Diigo Library</a>"""
+
 [[items]]
 title = "Twitter"
 image = "images/full/twitter.png"
@@ -153,6 +165,7 @@ Therefore I have just about 2.500 followers.
 <br /><br />Sometimes during conferences, I do use Twitter heavily as a kind of documentation.
 And Twitter is also a convenient way for me to communicate informally via direct messages.
 <br /><a href='https://twitter.com/pbaumgartner'>Follow me on Twitter</a>"""
+
 [[items]]
 title = "Rpubs"
 image = "images/full/rpubs.png"
