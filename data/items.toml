@@ -141,6 +141,19 @@ The feature to import kindle notes is also precious for me.
 <br /><br />See what I have bookmarked so far:
 <br /><a href='https://www.diigo.com/user/pbaumgartner'>My Diigo Library</a>"""
 [[items]]
+title = "Twitter"
+image = "images/full/twitter.png"
+thumb = "images/thumbs/twitter.png"
+alt = "Twitter Account of Peter Baumgartner"
+description = """
+Until today I haven't used so much social media. I am registered on Facebook, LinkedIn, Mendeley,
+and Academia.Edu, but I do not use these accounts actively. My only social media activity is on Twitter.
+But even there I am using my account mostly to inform people about my published blog articles.
+Therefore I have just about 2.500 followers.
+<br /><br />Sometimes during conferences, I do use Twitter heavily as a kind of documentation.
+And Twitter is also a convenient way for me to communicate informally via direct messages.
+<br /><a href='https://twitter.com/pbaumgartner'>Follow me on Twitter</a>"""
+[[items]]
 title = "Rpubs"
 image = "images/full/rpubs.png"
 thumb = "images/thumbs/rpubs.png"
@@ -157,5 +170,4 @@ Recently (April 2019) I started to write the solutions for the End-of-Chapter Ex
 My published solutions also include some own extra exercises like
 getting data from a table on a web page with web scraping and copying data to Excel sheet,
 data tidying and displaying different kinds distributions with ggplot2).
-
 """
