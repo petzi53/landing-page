@@ -25,17 +25,14 @@ German weblog on eLearning and technology supported educational scenarios. <a hr
 <br />-> An online course on Actors Network Theory with badges and certificates; registration required (German)
 <br />-> Link lists related to R and to many other subjects (English)"""
 [[items]]
-title = "Educational Patterns"
+title = "My English Weblog"
 image = "images/full/notes-weblog.png"
 thumb = "images/thumbs/notes-weblog.png"
 alt = "Weblog Open Science & Data Science Education"
 description = """
-My English weblog. Launched in Summer 2018, but it is still experimental.
-I want to focus on R related issues and tools for reproducible research to foster eScience / open Science.
-<br /><br />I have already collected a lot of material, but my learning curve is still steep.
-Therefore I lack an overview of what to publish. Additionally, this English weblog
-addresses a new community for me, where I am still not confident about their discussion culture.
-<br /><br /><a href='https://portfolio.peter-baumgartner.net/'>Educational Patterns</a>"""
+I launched my English weblog already in Summer 2017, but it is still experimental. With this website, I want to focus on R related issues and tools for reproducible research to foster education in Open Science & Data Science.
+<br /><br />Not only the English language barrier has to overcome, but I also have problems to know what particular target community I want to address. Furthermore, there are still some unresolved technical issues with the sophisticated technology behind the static web generator. And last not least, my learning curve on the relatively new subjects continues to be steep and challenging.
+<br /><br /><a href='https://notes.peter-baumgartner.net/'>Open Science & Data Science Education</a>"""
 [[items]]
 title = "ORCID ID"
 image = "images/full/ORCID.png"
