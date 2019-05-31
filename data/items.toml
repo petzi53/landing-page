@@ -26,9 +26,9 @@ German weblog on eLearning and technology supported educational scenarios. <a hr
 <br />-> Link lists related to R and to many other subjects (English)"""
 [[items]]
 title = "Educational Patterns"
-image = "images/full/educationalPatterns.png"
-thumb = "images/thumbs/educationalPatterns.png"
-alt = "Website Educational Patterns"
+image = "images/full/notes-weblog.png"
+thumb = "images/thumbs/notes-weblog.png"
+alt = "Weblog Open Science & Data Science Education"
 description = """
 My English weblog. Launched in Summer 2018, but it is still experimental.
 I want to focus on R related issues and tools for reproducible research to foster eScience / open Science.
